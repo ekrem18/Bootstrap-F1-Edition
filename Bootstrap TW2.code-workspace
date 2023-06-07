@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../bootstrap-5.3.0-dist/css"
+	},
+	{
+		"path": "../bootstrap-5.3.0-dist/js"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "Bootstrap TW2"
+  }
+}

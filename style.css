@@ -1,0 +1,64 @@
+
+.hero{
+    background: url(./images/f1\ wallpaper.png) center;
+    /* object-fit: cover; */
+    height: calc(100vh - 56px);
+}
+
+
+ .daire{
+    width: 150px;
+    height: 150px;
+ }
+
+ h3{
+    margin-top: 20px;
+ }
+
+ #about-us-img{
+   width: 100%;
+ }
+
+.persons{
+  width: 250px;
+  height: 250px;
+}
+
+.footer{
+  background: url(./images/contact.jpg);
+  background-repeat: none;
+  background-size: cover;
+
+
+}
+
+.fixed{
+  height: 50px;
+  width: 50px;
+  background-color: #8404D9;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.navbar{
+  background-color:#2E0259;
+  
+}
+.deneme{
+  color: #05C7F2;
+}
+
+body{
+  background-color: #05C7F2;
+}
+
+#last{
+  background-color: #2E0259;
+}
